@@ -1,8 +1,6 @@
 import Counter from './Counter';
 
 const App = () => {
-    const num = 'ss';
-
     return (
         <>
             <h1>
